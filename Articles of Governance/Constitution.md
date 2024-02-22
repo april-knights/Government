@@ -9,7 +9,7 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 
 ## Section 2 - Appointment
 1. 	The Grandmaster is voted in by the consent of our order by a popular vote.
-2.	To be eligible to run for Grandmaster, a candidate must both be an officer, and have participated in two campaigns.
+2.	To be eligible to run for Grandmaster, a candidate must both have the rank of Captain or higher, and have participated in two full campaigns.
 3.	Additionally, a candidate cannot nominate themselves, and must have another Knight nominate them for the position and a second Knight to second that nomination. Only then can the nominee accept and register as a candidate for election.
 4.	The Grandmaster shall serve a term lasting from the moment they are sworn in until the next April event is finished.
 
@@ -105,7 +105,4 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 2.	Constitution v1.5 was passed 2019-05-12.
 3.	Constitution v2.0 was passed 2021-07-14.
 4.	Constitution v2.1 was passed 2022-02-25.
-
-# Newer Versions
-
-1.	Constitution v2.3 was passed 2023-04-02. 
+5.	Constitution v2.2 was passed 2023-04-02.
