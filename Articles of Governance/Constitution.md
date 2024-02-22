@@ -9,8 +9,9 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 
 ## Section 2 - Appointment
 1. 	The Grandmaster is voted in by the consent of our order by a popular vote.
-2.	To be eligible to run for Grandmaster, a candidate must be both an officer and have participated in two full campaigns.
-3.	The Grandmaster shall serve a term lasting from the moment they are sworn in until the next April event is finished.
+2.	To be eligible to run for Grandmaster, a candidate must both be an officer, and have participated in two campaigns.
+3.	Additionally, a candidate cannot nominate themselves, and must have another Knight nominate them for the position and a second Knight to second that nomination. Only then can the nominee accept and register as a candidate for election.
+4.	The Grandmaster shall serve a term lasting from the moment they are sworn in until the next April event is finished.
 
 ## Section 3 - Powers
 1. 	The Grandmaster has full authority to declare war and negotiate all treaties during times of both peace and war.
@@ -88,6 +89,8 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 
 1.	“Absolute majority”: The number of Yes votes must be counted against the total number of Yes, No, Abstain, and Absent. Unless specified otherwise, the default threshold for “majority” is over half.
 2.	“Simple majority”: The number of Yes votes must be counted against the total number of Yes or No. Abstaining or failing to vote lowers the required Yes votes to pass.
+3.	“Officer”: A Knight with the rank of Sergeant or higher and a campaign is the yearly April Fool’s event.
+4.	“Campaign”: The yearly Reddit April Fool’s event.
 
 # Date Revised
 
@@ -101,3 +104,8 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 1.	Constitution v1.0 was passed 2018-12-18.
 2.	Constitution v1.5 was passed 2019-05-12.
 3.	Constitution v2.0 was passed 2021-07-14.
+4.	Constitution v2.1 was passed 2022-02-25.
+
+# Newer Versions
+
+1.	Constitution v2.3 was passed 2023-04-02. 
