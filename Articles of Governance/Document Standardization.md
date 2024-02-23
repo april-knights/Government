@@ -5,7 +5,7 @@ The Order, as a highly functioning and evolving body, often and constantly commu
 ## Article 1 - Version Standardization
 
 ### Section I
-All legislatures, referred to throughout as documents, proposed to and passed by the April Knights will be subject to the standards set in the Document Standardization Act.
+All legislations, referred to throughout as documents, proposed to and passed by the April Knights will be subject to the standards set in the Document Standardization Act.
 
 ### Section II
 Every document passed by the April Knights, both before and after this act was created, will receive a versioning number appended to their title (e.g. “April Knights Act” becomes “April Knights Act v.Major.Minor”).
