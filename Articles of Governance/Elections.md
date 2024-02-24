@@ -30,7 +30,7 @@ The purpose of this law is to codify the necessary election traditions into form
 ## Article III - Ballots
 
 ### Section I - The Electoral System
-1. Voting is done in the method of ranked choice. The candidate to receive over half of the available votes or half of the total votes within 48 hours wins the election.
+1. Voting is done in the method of ranked choice. The candidate to receive over half of the total valid votes within the voting period wins the election.
 2. Voters are to rank the candidates in order of their preference. For the first round of voting, all first choice votes are counted. The candidate with the lowest amount of first choice votes is eliminated and those voters move to their second choice. This continues until a candidate receives over 50% of the vote.
 
 ### Section II - Creation of Ballots
