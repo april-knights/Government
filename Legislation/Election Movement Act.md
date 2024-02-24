@@ -39,15 +39,15 @@ Our voter rate is lower than our July activity rate, despite being advertised lo
 ### Section III - Revise Constitution
 The Constitution will need to be revised to reflect the new election date.
 
-**Article 1, Section 2, point 3**
+**Article 1, Section 2, point 4**
 
 > The Grandmaster shall serve a term lasting from the moment they are sworn in until the next April event is finished.
 
 Changes to
 
-> The Grandmaster shall serve a term lasting from the moment they are sworn in until the next Grandmaster election begins.
+> The Grandmaster shall serve a term lasting from the moment they are sworn in until the next Grandmaster is sworn in.
 
-This bill will also preserve the **already passed** Constitutional revision detailed in the Election Act v1.0 here.
+This bill will also preserve the **already passed** Constitutional revision detailed in the Election Act v1.0 [here](https://docs.google.com/document/d/1hU9NEfn8lslSeoIgHMRG_Ax32HixKaqKzr4gz6w-wMw/edit).
 
 ### Section IV - Revise Election Act
 The Election Act will need to be revised to reflect the new election date.
