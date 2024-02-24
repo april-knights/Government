@@ -34,7 +34,7 @@ The purpose of this law is to codify the necessary election traditions into form
 2. Voters are to rank the candidates in order of their preference. For the first round of voting, all first choice votes are counted. The candidate with the lowest amount of first choice votes is eliminated and those voters move to their second choice. This continues until a candidate receives over 50% of the vote.
 
 ### Section II - Creation of Ballots
-1. Ballots must ask for a voter's Reddit username. This is to ensure the validity of the vote and the security of the election. Ballots must also have every candidate running on the ballot and a way for the voter to rank that candidate.
+1. Ballots must ask for a voter's Reddit username. The ballots may also request additional identifying information, such as battalion and Discord name. This is to ensure the validity of the vote and the security of the election. Ballots must also have every candidate running on the ballot and a way for the voter to rank that candidate.
 2. A Google Form template of the ballot is to be made and stored in the April Knights google drive for future use. This template will be constructed in the manner outlined by this legislation. The Google Forms feature “Shuffle Option Order” must be enabled.
 3. Multiple ballot entries from the same voter shall result in their votes being marked invalid. If a voter communicates promptly and directly with the Election Officer about technical difficulties regarding their vote, unintentional duplicates will not disqualify their one vote, at the discretion of the Election Officer.
 
