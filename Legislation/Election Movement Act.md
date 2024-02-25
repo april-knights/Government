@@ -55,7 +55,8 @@ The Election Act will need to be revised to reflect the new election date.
 The previous version is [here](https://docs.google.com/document/d/1hU9NEfn8lslSeoIgHMRG_Ax32HixKaqKzr4gz6w-wMw/edit). The new version is [here](https://docs.google.com/document/d/1GspJQGnniI6oT_FuQLkvgNnPxesd0TqTuwih0FDo7Z4/edit), and will replace the previous version.
 
 ### Section V - Enactment
-This bill proposes a revision to the Constitution and Election Act simultaneously. If passed, both the revisions go into effect as soon as this bill is passed by both Councils. The revisions may not take effect without each other.
+1.  This bill proposes a revision to the Constitution and Election Act simultaneously. If passed, both the revisions go into effect as soon as this bill is passed by both Councils. The revisions may not take effect without each other.
+2.  If this bill passes, the next election will occur in April 2024, and will elect a Grandmaster for a 9 month term, lasting until January 2025, at which point another election will occur. The registration thread will be opened at the end of the April event and will be used for both of these elections, and will clearly state this fact. The April 2024 election will be the last mandated election in April, and it will use the time windows specified in the Election Act v1.0.
 
 ### Section VI - Reversion
 1. 	In 2022 and 2023, there were 58 and 57 Knights who voted, respectively. Given that the primary concern against this bill is that a January election will have less voting participation, this bill has an automatic reversion clause.
