@@ -50,9 +50,11 @@ Changes to
 This bill will also preserve the **already passed** Constitutional revision detailed in the Election Act v1.0 [here](https://docs.google.com/document/d/1hU9NEfn8lslSeoIgHMRG_Ax32HixKaqKzr4gz6w-wMw/edit).
 
 ### Section IV - Revise Election Act
-The Election Act will need to be revised to reflect the new election date.
-
+1.  The Election Act will need to be revised to reflect the new election date.
 The previous version is [here](https://docs.google.com/document/d/1hU9NEfn8lslSeoIgHMRG_Ax32HixKaqKzr4gz6w-wMw/edit). The new version is [here](https://docs.google.com/document/d/1GspJQGnniI6oT_FuQLkvgNnPxesd0TqTuwih0FDo7Z4/edit), and will replace the previous version.
+2.  The major changes are:
+    1. Changing the time of the vote
+    2. Changing the tie breaker method. Two back-to-back elections is not supportable, and cannot change the fact that half of the Knights will be happy and half will be disappointed. That fact would be unfortunate, but a prompt decision must be made.
 
 ### Section V - Enactment
 1.  This bill proposes a revision to the Constitution and Election Act simultaneously. If passed, both the revisions go into effect as soon as this bill is passed by both Councils. The revisions may not take effect without each other.
