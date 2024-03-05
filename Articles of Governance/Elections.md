@@ -1,4 +1,4 @@
-# Election Act v2.0
+# Election Act v3.0
 The purpose of this law is to codify the necessary election traditions into formal law, set timelines for each step of an election, and serve as a set of instructions for the Election Administrator.
 
 ## Article I - Election Administrator
@@ -34,7 +34,7 @@ The purpose of this law is to codify the necessary election traditions into form
 2. Voters are to rank the candidates in order of their preference. For the first round of voting, all first choice votes are counted. The candidate with the lowest amount of first choice votes is eliminated and those voters move to their second choice. This continues until a candidate receives over 50% of the vote.
 
 ### Section II - Creation of Ballots
-1. Ballots must ask for a voter's Reddit username. The ballots may also request additional identifying information, such as battalion and Discord name. This is to ensure the validity of the vote and the security of the election. Ballots must also have every candidate running on the ballot and a way for the voter to rank that candidate.
+1. Ballots must ask for a voter's Reddit username and their battalion. The ballots may also request additional identifying information, such as Discord name. This is to ensure the validity of the vote and the security of the election. Ballots must also have every candidate running on the ballot and a way for the voter to rank that candidate.
 2. A Google Form template of the ballot is to be made and stored in the April Knights google drive for future use. This template will be constructed in the manner outlined by this legislation. The Google Forms feature “Shuffle Option Order” must be enabled.
 3. Multiple ballot entries from the same voter shall result in their votes being marked invalid. If a voter communicates promptly and directly with the Election Officer about technical difficulties regarding their vote, unintentional duplicates will not disqualify their one vote, at the discretion of the Election Officer.
 
@@ -59,7 +59,10 @@ The purpose of this law is to codify the necessary election traditions into form
 ## Article V - Ties
 
 ### Section I
-1. In the case of a tie between the final two candidates for office, a new debate thread will be made where both candidates will be able to have an additional debate. After three days of this new debate thread being live, a new vote will be held. This process will repeat itself until a winner can be decided upon.
+1. In the case of a tie between the final two candidates for office, the Election Administrator will first re-verify that each vote counted so far is valid. Each vote must be from a sworn Knight who has commented on the current registration thread. Depending on the thoroughness of their personal records, this task may be trivial.
+2. After verifying the current votes create a tie, the Election Administrator will issue an extension to the voting window, and another wave of notifications. This extension should be at least 2 days but no longer than 7 days, at their discretion. The exact end of the extension must be announced at the time the extension is issued.
+3. At the end of this extension, if the vote is still tied, the votes will be analyzed by battalion. Each battalion will be counted towards a candidate if that candidate has received more than half the votes, using the ranked choice voting system, exactly as described above. If a battalion is tied, it is excluded from this consideration. The candidate who has won the most battalions wins the election.
+4. If the battalion count is also tied, the Election Administrator must report these findings to the current Councils. The Election Administrator is then granted an additional vote, which they will announce to the Councils, finishing the tie. This additional vote is not required to be cast towards the same candidate that the Election Administrator voted for initially.
 
 ## Article VI - Political Speech
 
