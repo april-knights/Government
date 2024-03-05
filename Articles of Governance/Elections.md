@@ -59,7 +59,7 @@ The purpose of this law is to codify the necessary election traditions into form
 ## Article V - Ties
 
 ### Section I
-1. In the case of a tie between the top candidates for office, the Commanders of all current battalions will vote on which of the tied candidates will win the tie, via ranked choice voting. Note that this is different from the Lower Council; Commanders may still vote if they are currently on the Upper Council. Commanders cannot be changed by the Grandmaster during this process to affect the vote. In case of an absent Commander, the First Officer for that battalion may vote in their place.
+1. In the case of a tie between the final two candidates for office, a new debate thread will be made where both candidates will be able to have an additional debate. After three days of this new debate thread being live, a new vote will be held. This process will repeat itself until a winner can be decided upon.
 
 ## Article VI - Political Speech
 
