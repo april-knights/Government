@@ -20,7 +20,7 @@ The method used to identify proposed bills shall utilize a two item identifier, 
 1. “T” is the term number of the Grandmaster.
 1. “YY” is the bill number assigned to it.
     1. "YY" is "zero-padded", so if “Y” is a single digit, it will have a zero (0) placed in front of it.
-    1. "YY" increments by one (1) for each proposed bill.
+    1. "YY" increments by one (1) for each proposed bill, including those which fail or are withdrawn.
 1. Upon the end of term for any Grandmaster, “YY” will reset down to one.
 
 Examples:
