@@ -1,4 +1,4 @@
-# Election Act v1.0
+# Elections
 Throughout the entire history of the April Knights, at least one election has been held a year for the position of Grandmaster. Despite this being an important process in choosing our Grandmaster, the process has never been truly standardized, relying on both precedent, tradition, and some guidelines written in our constitution. The purpose of this bill is to codify the election norms into law, set timelines for each step of an election, and introduce some minor reforms to the process.
 
 ## Article I - Election Administrator
@@ -70,8 +70,3 @@ The expansion of people who could run for the position of Grandmaster was necess
 1. All oathsworn Knights of the Order are permitted to exercise political speech in support or in opposition of candidates, as long as it is not inflammatory or breaks the rules of either the Subreddit or the Discord.
 2. The Election Administrator, moderators, and the Arbiters have the power to determine if posts related to the election and Knight politics are inflammatory or break our rules and have the power to remove those posts in violation.
 3. Commanders have the power to determine if posts in battalion chats or subreddits related to the election and Knight politics are inflammatory or break our rules and have the power to remove those posts in violation.
-
-## Article VIII - Enactment
-
-### Section I
-1. This act shall take effect as soon as it is voted and approved by both Councils and confirmed by the Grandmaster, pending any implementation requirements.
