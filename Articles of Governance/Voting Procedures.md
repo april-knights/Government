@@ -11,12 +11,12 @@ As a rule of thumb, legislation should have titles at heading level 1, articles 
 The author of some hopeful legislation typically shares the working version of the legislation among the Lower Council and/or Upper Council prior to formally introducing it as a proposed bill. This is to gain feedback that may be extremely useful.
 
 ### Section III
-When the author of some hopeful legislation feels that it is ready to be formally proposed, they should contact the Grandmaster or First Ranger who will assign a bill number and announce it within the Conclave. -------------------------- Is this accurate or should it be any member with speaking rights on the UC/LC? And then the GM/FR assign a bill number and announce in the conclave?
+When the author of some hopeful legislation feels that it is ready to be formally proposed, they should contact the Grandmaster or First Ranger who will assign a bill number and announce it within the Conclave.
 
 The method used to identify proposed bills shall utilize a two item identifier, “X-TYY”.
 
 1. “X” is the number of the current Grandmaster.
-    1. “X” will only change when a Grandmaster is not re-elected and the position shifts to a new individual. ------------------------- What about temporary transfers of power?
+    1. “X” will only change when a Grandmaster is not re-elected and the position shifts to a new individual.
 1. “T” is the term number of the Grandmaster.
 1. “YY” is the bill number assigned to it.
     1. "YY" is "zero-padded", so if “Y” is a single digit, it will have a zero (0) placed in front of it.
@@ -42,7 +42,7 @@ During the 48 hour voting period, no comments, arguments, or qualifiers will be 
 ### Section IV
 All council members are to behave civilly and treat each other with respect worthy of all oathsworn Knights.
 
-### Section V --------------------------------- This section needs cleaned up
+### Section V
 1. If any member of either council is found to be in violation of this act, the Arbiters or a majority of the Triad have the full power to suspend any representative from partaking in as many sessions as they deem necessary.
 1. The Grandmaster can bypass any suspension issued in this manner. When this happens the Grandmaster shall inform the Arbiters, the Triad, or both of this.
 
@@ -62,7 +62,7 @@ These are examples for the purpose of making the process clear and not a hard re
 1. One week before the scheduled vote, no further changes permitted.
 1. Public viewing period ends; all discussion, debate, and queries cease.
 1. Voting period opens; both Councils vote for or against Legislation in its entirety.
-1. Upon passage, the Grandmaster or First Ranger publishes it as Law in mandated locations. -------------------------- Should this be the scribe? OOPS, I killed the scribe language.
+1. Upon passage, the Grandmaster or First Ranger publishes it as Law in mandated locations.
 
 #### Example Workflow II
 1. Legislation is submitted to the Lower Council for review and discussion.
