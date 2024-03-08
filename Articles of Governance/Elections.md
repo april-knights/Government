@@ -61,8 +61,7 @@ The purpose of this law is to codify the necessary election traditions into form
 ### Section I
 1. In the case of a tie between the final two candidates for office, the Election Administrator will first re-verify that each vote counted so far is valid. Each vote must be from a sworn Knight who has commented on the current registration thread. Depending on the thoroughness of their personal records, this task may be trivial.
 2. After verifying the current votes create a tie, the Election Administrator will issue an extension to the voting window, and another wave of notifications. This extension should be at least 2 days but no longer than 7 days, at their discretion. The exact end of the extension must be announced at the time the extension is issued.
-3. At the end of this extension, if the vote is still tied, the votes will be analyzed by battalion. Each battalion will be counted towards a candidate if that candidate has received more than half the votes, using the ranked choice voting system, exactly as described above. If a battalion is tied, it is excluded from this consideration. The candidate who has won the most battalions wins the election.
-4. If the battalion count is also tied, the Election Administrator must report these findings to the current Councils. The Election Administrator is then granted an additional vote, which they will announce to the Councils, finishing the tie. This additional vote is not required to be cast towards the same candidate that the Election Administrator voted for initially.
+3. At the end of this extension, if the vote is still tied, the Election Administrator must report these findings to the current Councils. The Election Administrator is then granted an additional vote, which they will announce to the Councils, finishing the tie. This additional vote is not required to be cast towards the same candidate that the Election Administrator voted for initially.
 
 ## Article VI - Political Speech
 
