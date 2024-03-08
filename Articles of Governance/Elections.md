@@ -1,4 +1,4 @@
-# Election Act v1.0
+# Election Act
 Throughout the entire history of the April Knights, at least one election has been held a year for the position of Grandmaster. Despite this being an important process in choosing our Grandmaster, the process has never been truly standardized, relying on both precedent, tradition, and some guidelines written in our constitution. The purpose of this bill is to codify the election norms into law, set timelines for each step of an election, and introduce some minor reforms to the process.
 
 ## Article I - Election Administrator
@@ -62,7 +62,9 @@ The expansion of people who could run for the position of Grandmaster was necess
 ## Article VI - Ties
 
 ### Section I
-1. In the case of a tie between the final two candidates for office, a new debate thread will be made where both candidates will be able to have an additional debate. After three days of this new debate thread being live, a new vote will be held. This process will repeat itself until a winner can be decided upon.
+1. In the case of a tie between the final two candidates for office, the Election Administrator will first re-verify that each vote counted so far is valid. Each vote must be from a sworn Knight who has commented on the current registration thread. Depending on the thoroughness of their personal records, this task may be trivial.
+2. After verifying the current votes create a tie, the Election Administrator will issue an extension to the voting window, and another wave of notifications. This extension should be at least 2 days but no longer than 7 days, at their discretion. The exact end of the extension must be announced at the time the extension is issued.
+3. At the end of this extension, if the vote is still tied, the Election Administrator must report these findings to the current Councils. The Election Administrator is then granted an additional vote, which they will announce to the Councils, finishing the tie. This additional vote is not required to be cast towards the same candidate that the Election Administrator voted for initially.
 
 ## Article VII - Political Speech
 
