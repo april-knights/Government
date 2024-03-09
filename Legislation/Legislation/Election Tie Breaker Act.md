@@ -14,12 +14,23 @@ This bill proposes changing the tie breaker method for Grandmaster elections. Th
 
 ### Section III - Revise Election Act
 The Election Act will need to be revised to reflect the new method.
+The section on ties will be replaced wholesale with the following:
+
+1.	In the case of a tie between the final two candidates for office, the Election Administrator will first re-verify that each vote counted so far is valid. Each vote must be from a sworn Knight who has commented on the current registration thread. Depending on the thoroughness of their personal records, this task may be trivial.
+2.	After verifying the current votes create a tie, the Election Administrator will issue an extension to the voting window, and another wave of notifications. This extension should be at least 2 days but no longer than 7 days, at their discretion. The exact end of the extension must be announced at the time the extension is issued.
+3.	At the end of this extension, if the vote is still tied, the Election Administrator must report these findings to the current Councils. The Election Administrator is then granted an additional vote, which they will announce to the Councils, finishing the tie. This additional vote is not required to be cast towards the same candidate that the Election Administrator voted for initially.
+
+### Section IV - Revise Election Movement Act
+If this bill passes, it means we have agreed that the old tie breaker method in Election Act v1.0 is insufficient for our needs. Bill 8-202, the Election Movement Act, contains a reversion clause that will revert the Election Act from v2.0 to v1.0. However, if this bill passes, we will amend that reversion clause to revert everything except for the tie breaker method, preserving the effect of this bill. If Bill 8-202 reversion clause comes before the councils for voting, then a version of the Election Act with all appropriate changes will be created for review for that vote.
+
+### Section V - Enactment
+This bill will go into effect as soon as it is passed by both Councils.
+
+### Section VI - Links
+The Election Act will need to be revised to reflect the new method.
 
 Version 1.0 is here, which is current at the time this bill is proposed.
 
 Version 2.0 is here, which may be the current version at the time this bill is voted on.
 
 The new version is here, and will replace the previous version if this bill passes.
-
-### Section IV - Enactment
-This bill will go into effect as soon as it is passed by both Councils.
