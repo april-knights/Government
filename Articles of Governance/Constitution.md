@@ -1,3 +1,8 @@
+[Bill number: 6-301]: #
+[Author: Ghostise]: #
+[Proposed Date: 4/11/2018]: #
+[Passed Date: 12/18/2018]: #
+
 # The Constitution of the April Knights
 ## Preamble
 Our Order was founded in the days of the Button as a force of balance and a beacon of hope. We strive to spread the glory of our Order far and wide, to unite the people of Reddit towards a common goal, and to oppose the evil forces of chaos that seek to ruin the fun of the April Events.

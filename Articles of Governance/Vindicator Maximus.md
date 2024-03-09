@@ -1,3 +1,8 @@
+[Bill number: 6-304]: #
+[Author: First Steward Gryph667]: #
+[Proposed Date: 1/8/2019]: #
+[Passed Date: 1/24/2019]: #
+
 # States of Emergency
 Otherwise known as "Vindicator Maximus"
 
