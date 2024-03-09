@@ -1,3 +1,9 @@
+[Bill number: 6-302]: #
+[Author: Grandmaster Ghostise]: #
+[Author: Commander Fanboy]: #
+[Proposed Date: 12/18/2018]: #
+[Passed Date: 1/3/2019]: #
+
 ## Line of Succession Act
 (Revised December 19th, 2018)
 

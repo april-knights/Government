@@ -1,3 +1,11 @@
+[Bill number: 8-104]: #
+[Author: Ghostise]: #
+[Author: Nate337]: #
+[Author: Phyto]: #
+[Author: sms77]: #
+[Proposed Date: 3/18/2023]: #
+[Passed Date: 4/2/2023]: #
+
 # Election Act v2.0
 The purpose of this law is to codify the necessary election traditions into formal law, set timelines for each step of an election, and serve as a set of instructions for the Election Administrator.
 
