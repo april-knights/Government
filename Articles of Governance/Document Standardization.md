@@ -1,6 +1,6 @@
 [Bill number: 7-104]: #
 [Author: First Ranger YewhotookAPUSH]: #
-[Proposed Date: ]: #
+[Proposed Date: 3/3/2020]: #
 [Passed Date: 3/15/2020]: #
 
 # Document Standardization Act v1.1

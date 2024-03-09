@@ -1,6 +1,6 @@
 [Bill number: 7-103]: #
 [Author: First Ranger YewhotookAPUSH]: #
-[Proposed Date: ]: #
+[Proposed Date: 3/3/2020]: #
 [Passed Date: 3/15/2020]: #
 
 # Character and Language Standardization Act v1.0

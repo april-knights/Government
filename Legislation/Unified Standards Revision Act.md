@@ -1,7 +1,7 @@
 [Bill number: 8-201]: #
 [Author: First Officer MontgomeryUSA]: #
 [Author: Grandmaster LadyVulcan]: #
-[Proposed Date: ]: #
+[Proposed Date: 2/16/2024]: #
 [Passed Date: 3/2/2024]: #
 
 # Unified Standards Revision Act

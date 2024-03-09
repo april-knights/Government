@@ -1,6 +1,6 @@
 [Bill number: 7-302]: #
 [Author: Archmage LadyVulcan]: #
-[Proposed Date: ]: #
+[Proposed Date: 2/8/2022]: #
 [Passed Date: 2/25/2022]: #
 
 # Trials v.1.1

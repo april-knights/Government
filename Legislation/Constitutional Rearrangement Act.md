@@ -1,6 +1,6 @@
 [Bill number: 7-301]: #
 [Author: Archmage LadyVulcan]: #
-[Proposed Date: ]: #
+[Proposed Date: 6/26/2021]: #
 [Passed Date: 7/14/2021]: #
 
 # Constitutional Revision Act
