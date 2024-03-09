@@ -1,8 +1,12 @@
+[Bill number: 8-202]: #
+[Author: Grandmaster LadyVulcan]: #
+[Proposed Date: 2/22/2024]: #
+[Passed Date: 3/9/2024]: #
+
 # Election Movement Act
-This bill proposes moving the April Knights Grandmaster election to late January. The law document executing this change can be found here. The purpose of this document is to highlight the reasons why such a move would be beneficial for the Knights. If this bill passes, the law linked will be put into effect.
+This bill proposes moving the April Knights Grandmaster election to late January. The law document executing this change can be found [here](https://docs.google.com/document/u/1/d/1GspJQGnniI6oT_FuQLkvgNnPxesd0TqTuwih0FDo7Z4/edit). The purpose of this document is to highlight the reasons why such a move would be beneficial for the Knights. If this bill passes, the law linked will be put into effect.
 
 ### Section I - Overview of reasons
-
 1. Healthier for the candidates
     1. It is easier for a candidate to commit to an event 4 months later than one 12 months later. We would have more people willing to run for Grandmaster, and those who are running could speak confidently to their availability.
     1. It is less likely that the Grandmaster would have to step down due to unforeseen circumstances happening in that year. The Line of Succession law handles this, but has not been updated to reflect the most recent Upper Council changes.
@@ -41,27 +45,25 @@ The Constitution will need to be revised to reflect the new election date.
 
 **Article 1, Section 2, point 4**
 
-> The Grandmaster shall serve a term lasting from the moment they are sworn in until the next April event is finished.
+> *The Grandmaster shall serve a term lasting from the moment they are sworn in until the next April event is finished.*
 
 Changes to
 
-> The Grandmaster shall serve a term lasting from the moment they are sworn in until the next Grandmaster is sworn in.
+> *The Grandmaster shall serve a term lasting from the moment they are sworn in until the next Grandmaster is sworn in.*
 
 This bill will also preserve the **already passed** Constitutional revision detailed in the Election Act v1.0 [here](https://docs.google.com/document/d/1hU9NEfn8lslSeoIgHMRG_Ax32HixKaqKzr4gz6w-wMw/edit).
 
-### Section IV - Revise Election Act
-1.  The Election Act will need to be revised to reflect the new election date.
+### *Section IV - Revise Election Act*
+The Election Act will need to be revised to reflect the new election date.
+
 The previous version is [here](https://docs.google.com/document/d/1hU9NEfn8lslSeoIgHMRG_Ax32HixKaqKzr4gz6w-wMw/edit). The new version is [here](https://docs.google.com/document/d/1GspJQGnniI6oT_FuQLkvgNnPxesd0TqTuwih0FDo7Z4/edit), and will replace the previous version.
-2.  The major changes are:
-    1. Changing the time of the vote
-    2. Changing the tie breaker method. Two back-to-back elections is not supportable, and cannot change the fact that half of the Knights will be happy and half will be disappointed. That fact would be unfortunate, but a prompt decision must be made.
 
 ### Section V - Enactment
-1.  This bill proposes a revision to the Constitution and Election Act simultaneously. If passed, both the revisions go into effect as soon as this bill is passed by both Councils. The revisions may not take effect without each other.
-2.  If this bill passes, the next election will occur in April 2024, and will elect a Grandmaster for a 9 month term, lasting until January 2025, at which point another election will occur. The registration thread will be opened at the end of the April event and will be used for both of these elections, and will clearly state this fact. The April 2024 election will be the last mandated election in April, and it will use the time windows specified in the Election Act v1.0.
+1. This bill proposes a revision to the Constitution and Election Act simultaneously. If passed, both the revisions go into effect as soon as this bill is passed by both Councils. The revisions may not take effect without each other.
+1. If this bill passes, the next election will occur in April 2024, and will elect a Grandmaster for a 9 month term, lasting until January 2025, at which point another election will occur. The registration thread will be opened at the end of the April event and will be used for both of these elections, and will clearly state this fact. The April 2024 election will be the last mandated election in April, and it will use the time windows specified in the Election Act v1.0.
 
 ### Section VI - Reversion
-1. 	In 2022 and 2023, there were 58 and 57 Knights who voted, respectively. Given that the primary concern against this bill is that a January election will have less voting participation, this bill has an automatic reversion clause.
-2.	If the voting participation in the 2025 January election is less than 54 valid votes, (95% of the previous years) this bill will automatically be reverted. The Constitution will lose the change outlined in this bill, but keep any other changes made between the passing of this bill and the reversion window. The document version number will increase, in order to properly convey the change. The Election Act, being a full rewrite, will return to v1.0.
-3.	The Councils may choose to override this reversion. It is possible that obvious and extraneous factors may cause the voting participation to fall below the threshold, and the Council may feel it wise to continue to uphold this bill. Examples include: Reddit declaring an end to April events, being bought by another company, or shutting down entirely.
-4.	This reversion will be brought before the Councils no later than one week after the voting period is finished, and only if the voting participation falls below the given threshold. The Councils may vote to override the reversion with a simple majority in both Councils.
+1. In 2022 and 2023, there were 58 and 57 Knights who voted, respectively. Given that the primary concern against this bill is that a January election will have less voting participation, this bill has an automatic reversion clause.
+1. If the voting participation in the 2025 January election is less than 54 valid votes, (95% of the previous years) this bill will automatically be reverted. The Constitution will lose the change outlined in this bill, but keep any other changes made between the passing of this bill and the reversion window. The document version number will increase, in order to properly convey the change. The Election Act, being a full rewrite, will return to v1.0.
+1. The Councils may choose to override this reversion. It is possible that obvious and extraneous factors may cause the voting participation to fall below the threshold, and the Council may feel it wise to continue to uphold this bill. Examples include: Reddit declaring an end to April events, being bought by another company, or shutting down entirely.
+1. This reversion will be brought before the Councils no later than one week after the voting period is finished, and only if the voting participation falls below the given threshold. The Councils may vote to override the reversion with a simple majority in both Councils.
