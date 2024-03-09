@@ -4,9 +4,7 @@
 [Proposed Date: 12/18/2018]: #
 [Passed Date: 1/3/2019]: #
 
-## Line of Succession Act
-(Revised December 19th, 2018)
-
+## Line of Succession
 On the rare occasion that our leader, the Grandmaster is inactive, missing, or removed, our Order should have a line of succession so we are never truly leaderless again like the events of the Interregnum like in the latter half of Grandmaster Wicro’s reign. Avoiding these events will ensure we are never leaderless and broken during any period of time, be it the off season or during campaign.
 
 ### Section I
@@ -36,7 +34,3 @@ If the Grandmaster does not make any public contact with either of the Councils 
 ### Section VII
 
 If the Grandmaster does not make contact of any kind with any knight for more than seven (7) days without giving prior notice to the Upper Council or establishing a regent, they will be considered “missing” and the command will be temporarily passed down as detailed above. During any period of war, such as an active April Event, the Grandmaster will be considered “missing” if they do not make any contact for more than sixteen (16) hours.
-
-### Section VIII
-
-This act shall take effect as soon as voted and approved by both Councils.

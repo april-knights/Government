@@ -3,12 +3,11 @@
 [Proposed Date: 4/11/2018]: #
 [Passed Date: 12/18/2018]: #
 
+# The Constitution of the April Knights
 ## Preamble
-
 Our Order was founded in the days of the Button as a force of balance and a beacon of hope. We strive to spread the glory of our Order far and wide, to unite the people of Reddit towards a common goal, and to oppose the evil forces of chaos that seek to ruin the fun of the April Events.
 
 ## Article 1 - The Grandmaster
-
 ### Section 1 - Position
 1.	The position of Grandmaster is supreme commander of all Knight forces and is the chief executive. The Grandmaster has full power to exert their authority over all operations.
 
@@ -23,7 +22,6 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 2. 	The Grandmaster has the power to introduce legislation.
 
 ## Article 2 - The Upper Council
-
 ### Section 1 - Membership
 1. 	The Upper Council shall consist of the Grandmaster, the First Ranger, the First Steward, the First Builder, the Grand Inquisitor, the leader of the Arcanaeum, and up to two advisors, all appointed by the Grandmaster.
 2.	The Grandmaster shall have the power to change their Upper Council upon being elected to office. If a member of the Upper Council leaves of their own choice, the Grandmaster shall have the power to appoint one new person to the Upper Council, moving seats if necessary. Further than this, if the Grandmaster wishes to make changes to the Upper Council, they may petition for the consent of the Lower Council via a simple majority vote no sooner than three months since the last Upper Council change.
@@ -31,10 +29,7 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 ### Section 2 - Powers
 1. 	The Upper Council has the power to introduce legislation.
 
-
-
 ## Article 3 - The Lower Council
-
 ### Section 1 - Membership
 1. 	Each battalion commander will be a member of the Lower Council and is entitled to one vote therein.
 2.	If a battalion commander has obligations in the Upper Council, the battalion’s First Officer, whatever their official rank is, will take their Commander’s place in the Lower Council.
@@ -44,7 +39,6 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 1. 	The Lower Council has the power to introduce legislation.
 
 ## Article 4 - Legislation
-
 ### Section 1 - Viewing
 1. 	All proposed legislation must have the ability to be viewed by the public for 2 weeks before voting.
 2. 	If legislation needs to be passed during an April Event, Section 1.1 can be waived.
@@ -53,10 +47,7 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 1.	All legislation must pass both Councils with an absolute majority and be approved by the Grandmaster.
 2.	The Grandmaster has the power to veto all legislation either Council passes. Both Councils have the power to bypass a veto with two-thirds absolute majority of both Councils voting in favor of the legislation.
 
-
-
 ## Article 5 - The Battalions
-
 ### Section 1 - Creation
 1.	The Grandmaster has the authority to raise battalions, either new or through reinstatement, with a simple majority of the Upper Council.
 
@@ -65,7 +56,6 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 2.	New appointments are confirmed by a simple majority of the Upper Council.
 
 ## Article 6 - Emergency Powers
-
 ### Section 1 - Enactment
 1.	Both Councils have the power to grant emergency powers to the Grandmaster. This suspends the authority of both Councils.
 2.	Invoking Article 6 must be approved by two thirds absolute majority of both Councils.
@@ -85,29 +75,12 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 1.	An early revocation of Article 6 proposed by a body other than the Grandmaster must be approved by two thirds absolute majority of both Councils.
 
 ## Article 7 - Amendments
-
 ### Section 1 - Enactment
 1.	The Councils have the power to propose amendments to this constitution. The amendment must be ratified through a two thirds absolute majority in both Councils to be added to this constitution.
 
 
 ## Definitions
-
 1.	“Absolute majority”: The number of Yes votes must be counted against the total number of Yes, No, Abstain, and Absent. Unless specified otherwise, the default threshold for “majority” is over half.
 2.	“Simple majority”: The number of Yes votes must be counted against the total number of Yes or No. Abstaining or failing to vote lowers the required Yes votes to pass.
 3.	“Officer”: A Knight with the rank of Sergeant or higher and a campaign is the yearly April Fool’s event.
 4.	“Campaign”: The yearly Reddit April Fool’s event.
-
-## Date Revised
-
-1.	This version of this document was last revised 2022-02-06.
-2.	The revision was formally proposed on 2022-02-08.
-3.	The revision passed on xxxx-xx-xx.
-4.	This version is in effect as of xxxx-xx-xx until a newer revision replaces it.
-
-## Older Versions
-
-1.	Constitution v1.0 was passed 2018-12-18.
-2.	Constitution v1.5 was passed 2019-05-12.
-3.	Constitution v2.0 was passed 2021-07-14.
-4.	Constitution v2.1 was passed 2022-02-25.
-5.	Constitution v2.2 was passed 2023-04-02.
