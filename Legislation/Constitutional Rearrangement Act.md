@@ -1,3 +1,8 @@
+[Bill number: 7-301]: #
+[Author: Archmage LadyVulcan]: #
+[Proposed Date: ]: #
+[Passed Date: 7/14/2021]: #
+
 # Constitutional Revision Act
 
 I am proposing we revise the current Constitution (link here) by rearranging it in this manner (link to new arrangement here)

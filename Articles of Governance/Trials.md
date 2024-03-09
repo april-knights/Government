@@ -1,3 +1,8 @@
+[Bill number: 7-302]: #
+[Author: Archmage LadyVulcan]: #
+[Proposed Date: ]: #
+[Passed Date: 2/25/2022]: #
+
 # Trials v.1.1
 
 If a Knight is accused of a crime by any trustworthy party, a fair trial is warranted. This law outlines the occasions in which a trial may be called for, who may comprise the jury, and what punishments they have the authority to mete out.

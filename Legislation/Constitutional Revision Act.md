@@ -1,3 +1,8 @@
+[Bill number: 7-302]: #
+[Author: Archmage LadyVulcan]: #
+[Proposed Date: ]: #
+[Passed Date: 2/25/2022]: #
+
 # Constitutional Revision Act
 
 This bill arrives in the wake of the Constitutional Rearrangement Act, found here. This bill of revision aims to address the remaining areas in which the Constitution v2.0 needs improvement. This is the second and final phase of Constitutional changes intended at this time.

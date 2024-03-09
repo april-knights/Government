@@ -1,3 +1,9 @@
+[Bill number: 8-201]: #
+[Author: First Officer MontgomeryUSA]: #
+[Author: Grandmaster LadyVulcan]: #
+[Proposed Date: ]: #
+[Passed Date: 3/2/2024]: #
+
 # Unified Standards Revision Act
 As the April Knights grow and change as an organization, ranks and titles are added and changed. This bill hopes to retroactively provide leeway for old laws to continue to apply as they were intended, preventing certain individuals and ranks from existing in a gray area, and changing naming standards to match.
 
