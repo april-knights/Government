@@ -1,3 +1,11 @@
+[Bill number: 8-104]: #
+[Author: Ghostise]: #
+[Author: Nate337]: #
+[Author: Phyto]: #
+[Author: sms77]: #
+[Proposed Date: 3/18/2023]: #
+[Passed Date: 4/2/2023]: #
+
 # Election Act
 Throughout the entire history of the April Knights, at least one election has been held a year for the position of Grandmaster. Despite this being an important process in choosing our Grandmaster, the process has never been truly standardized, relying on both precedent, tradition, and some guidelines written in our constitution. The purpose of this bill is to codify the election norms into law, set timelines for each step of an election, and introduce some minor reforms to the process.
 

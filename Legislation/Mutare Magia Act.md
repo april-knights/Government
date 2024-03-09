@@ -1,3 +1,8 @@
+[Bill number: 7-101]: #
+[Author: Grandmaster Gryph667]: #
+[Proposed Date: 4/26/2019]: #
+[Passed Date: 5/12/2019]: #
+
 # Mutare Magia Act
 
 As is expected, the Order needs must occasionally review and reflect on whether what is currently in place is providing the best desired effect. This, the Mutare Magia Act, or the Changing Magic Act, will help normalize how our coding Knights are organized, and supported, in addition to making adjustments to the relevant parts of the Constitution these changes touch on.
