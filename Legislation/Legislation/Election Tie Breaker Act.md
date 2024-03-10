@@ -27,10 +27,6 @@ If this bill passes, it means we have agreed that the old tie breaker method in 
 This bill will go into effect as soon as it is passed by both Councils.
 
 ### Section VI - Links
-The Election Act will need to be revised to reflect the new method.
-
 Version 1.0 is here, which is current at the time this bill is proposed.
-
-Version 2.0 is here, which may be the current version at the time this bill is voted on.
-
-The new version is here, and will replace the previous version if this bill passes.
+Version 2.0 is here, which may be the current version at the time this bill is voted on. 
+If both bill 8-202 and this bill 8-203 pass, the new Election Act would be version 2.1. The link to read that would be here.
