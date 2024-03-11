@@ -2,6 +2,8 @@
 [Author: Ghostise]: #
 [Proposed Date: 4/11/2018]: #
 [Passed Date: 12/18/2018]: #
+[Revised Date: 3/9/2024]: #
+[Revised By: Bill 8-202]: #
 
 # The Constitution of the April Knights
 ## Preamble
@@ -15,7 +17,7 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 1. 	The Grandmaster is voted in by the consent of our order by a popular vote.
 2.	To be eligible to run for Grandmaster, a candidate must both have the rank of Captain or higher, and have participated in two full campaigns.
 3.	Additionally, a candidate cannot nominate themselves, and must have another Knight nominate them for the position and a second Knight to second that nomination. Only then can the nominee accept and register as a candidate for election.
-4.	The Grandmaster shall serve a term lasting from the moment they are sworn in until the next April event is finished.
+4.	The Grandmaster shall serve a term lasting from the moment they are sworn in until the next Grandmaster is sworn in.
 
 ### Section 3 - Powers
 1. 	The Grandmaster has full authority to declare war and negotiate all treaties during times of both peace and war.
