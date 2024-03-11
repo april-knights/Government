@@ -1,3 +1,8 @@
+[Bill number: 8-203]: #
+[Author: Grandmaster LadyVulcan]: #
+[Proposed Date: 3/5/2024]: #
+[Passed Date: ##############################]: #
+
 # Election Tie Breaker Act
 This bill proposes changing the tie breaker method for Grandmaster elections. The law document executing this change can be found here. The purpose of this document is to highlight the reasons why the tie breaker method needs to change. If this bill passes, the law linked will be put into effect.
 
@@ -28,5 +33,5 @@ This bill will go into effect as soon as it is passed by both Councils.
 
 ### Section VI - Links
 Version 1.0 is here, which is current at the time this bill is proposed.
-Version 2.0 is here, which may be the current version at the time this bill is voted on. 
+Version 2.0 is here, which may be the current version at the time this bill is voted on.
 If both bill 8-202 and this bill 8-203 pass, the new Election Act would be version 2.1. The link to read that would be here.
