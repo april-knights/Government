@@ -11,7 +11,7 @@ Whether it is during the Reddit events or otherwise, operational security is of 
 
 ### Section I
 
-The Grandmaster is the focal point of all information gathering, overt and covert; there are times when evidence gathered is shared with the two ruling bodies. There are times when this information can and will involve members of those bodies. Under these circumstances, the Grandmaster is under no obligation to share this information with either body as a group, as one or more members may be subjects of the intel. Consultation with at least one member of either the Steward, Builder, or Ranger is strongly encouraged.
+The Grandmaster is the focal point of all information gathering, overt and covert; there are times when evidence gathered is shared with the two ruling bodies. There are times when this information can and will involve members of those bodies. Under these circumstances, the Grandmaster is under no obligation to share this information with either body as a group, as one or more members may be subjects of the intel. Consultation with at least one member of either the Herald, Builder, or Ranger is strongly encouraged.
 
 ### Section II
 

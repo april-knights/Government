@@ -33,7 +33,7 @@ For documents that were not versioned prior to the passing of this act the Grand
 ## Article 2 - Maintenance Standardization
 
 ### Section I
-For the sake of preservation of April Knight history, the Grandmaster will appoint one Upper Council member, other than the Grand Inquisitor, with the charge of maintaining April Knight documents to be known as the Scribe. This is not considered to be a seat on the Upper Council.
+For the sake of preservation of April Knight history, the First Herald will appoint any officer ranked Captain or higher, other than the Grand Inquisitor, with the charge of maintaining April Knight documents to be known as the Scribe. They may choose themselves if it stands without objection in the Upper Council.
 
 ### Section II
 The scribe is responsible for ensuring every version of every document is stored securely in an accessible location. The documents should be stored in such a manner that it is easily verifiable that the documents have not been altered. The Grandmaster is responsible for ensuring this is the case.
