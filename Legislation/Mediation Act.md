@@ -5,7 +5,7 @@
 
 # Mediation Act
 
-If a Knight is accused of unsavoury behaviour by any member of the April Knights discord, all actions must be taken to address the alleged behaviour in a fair manner. This law recognises that these situations can often be resolved with communication, rather than by trial or severe consequence. This Act recognises that these situations can be complicated, and that multiple perspectives and feelings can be involved. The purpose of this Act is not to define who an ‘unsavoury person’ is, but to acknowledge when there has been ‘unsavoury behaviour’ (see A1, SI) that has created a ‘negative impact’ (see A1, SII), and how to address this effectively. The aim of the legislation will be to outline steps that will encourage self-reflection and accountability, while promoting understanding and communication. Therefore, this law outlines what behaviour this Act is relevant to, the occasions in which a mediation may be called for, the appointment of the Moderation Committee, what will happen when more than one Knight is impacted by the behaviour, and what outcomes may be used to resolve the situation. It is hoped that this legislation may free-up the Grandmaster and Upper Council from having to directly deal with all disagreements or conflict.
+If a Knight is accused of unsavoury behaviour by any member of the April Knights, all actions must be taken to address the alleged behaviour in a fair manner. This law recognises that these situations can often be resolved with communication, rather than by trial or severe consequence. This Act recognises that these situations can be complicated, and that multiple perspectives and feelings can be involved. The purpose of this Act is not to define who an ‘unsavoury person’ is, but to acknowledge when there has been ‘unsavoury behaviour’ (see A1, SI) that has created a ‘negative impact’ (see A1, SII), and how to address this effectively. The aim of the legislation will be to outline steps that will encourage self-reflection and accountability, while promoting understanding and communication. Therefore, this law outlines what behaviour this Act is relevant to, the occasions in which a mediation may be called for, the appointment of the Moderation Committee, what will happen when more than one Knight is impacted by the behaviour, and what outcomes may be used to resolve the situation. It is hoped that this legislation may free-up the Grandmaster and Upper Council from having to directly deal with all disagreements or conflict.
 
 ## Article 1 - Definitions
 
@@ -73,7 +73,7 @@ A Moderation Committee shall be formed, comprising a minimum of three (3) and ma
 
 ### Section III - Appointment Process
 
-Committee Members will be nominated by the Grandmaster and confirmed, by a simple majority vote by the Upper and Lower Council, within fourteen (14) days after inauguration of a Grandmaster. Members of either council may suggest a candidate to the Grandmaster. The Grandmaster decides whether or not a proposed candidate is fit for the committee, and will have final say on which suggestions are included or excluded from their nominations.
+Committee Members will be nominated by the Grandmaster and confirmed, by a simple majority vote by the Upper and Lower Council, within fourteen (14) days after inauguration of a Grandmaster. Members of either council may suggest candidates to the Grandmaster. The Grandmaster decides whether or not a proposed candidate is fit for the committee, and will have final say on which suggestions are included or excluded from their nominations.
 
 1. Once the role of Moderation Committee member is accepted, Committee members will be sworn in by a simple majority vote of both councils.
 2. Once sworn in, Moderation Committee members shall serve until the next committee is nominated and sworn in.
@@ -92,9 +92,9 @@ Once chosen and sworn in, the Moderation Committee shall be the main body respon
 7. Providing guidance on how to proceed with mediation discussions. The mediator is not there to control the conversation, but as an unbiased guide and supporter to all parties.
 8. The mediator may utilise private messages, threads, or channels to conduct proceedings.
 9. In the event that there is confusion over who should be identified as a Notifier or an Accused, the mediator may discard all titles (i.e. refer to all parties equally as participants and avoid any ‘Notifier’ or ‘Accused’ private channels), or use known evidence to determine which party the individual most fits with.
-10. The Lead Mediator can decide that mediation is not the best course of action. If mediation has not resolved the matter within seven days after mediation has been announced, mediation will be ended. If mediation is not successful, the Lead and any supporting mediators are to report back to the Upper Council with any recommendations on consequences or next steps (see A3, SII: Unsuccessful Mediation).
+10. The Lead Mediator can decide that mediation is not the best course of action. In this case, the Lead and any supporting mediators are to report back to the Upper Council with any recommendations on consequences or next steps (see A4, SII: Unsuccessful Mediation).
 11. With consultation from the Upper Council, the Moderation Committee can decide whether it is purposeful to share the outcome of the mediation in a public way.
-12. The Moderation Committee may decide to remove observation (see A3, SII, d) or support person (see A3, SII, c) privileges if they negatively impact on proceedings.
+12. The Moderation Committee may decide to remove observation (see A3, SII, b) or support person (see A3, SII, a) privileges if they negatively impact on proceedings.
 
 Any decisions that need to be made outside of the above responsibilities should be made with consultation from impartial Moderation Committee members or impartial Upper Council Members.
 
@@ -125,7 +125,7 @@ All Notifiers and Accused must identify their preferences of who they would like
 
 In the first instance, mediators who have been identified as a preference (excluding any identified as inappropriate with justifiable reasons) will determine whether they are capable of taking on the task of mediator, using the below indicators of suitability. If those with a preference are not suitable, mediators who are neither excluded or preferred will determine whether they are capable of taking on the task of mediator, using the below indicators of suitability.
 
-##### Indicators of Suitability
+Indicators of Suitability:
 
 1. Does not identify themselves as negatively impacted by the Accused's behaviour, regardless of whether they decided to participate in the mediation process as a Notifier or not.
 2. They have the time and capacity to begin mediation within a maximum of three (3) days, and the availability to respond to mediation within the seven (7) days after mediation has been announced (Or two to three (2-3) mediators are chosen that can provide this coverage so that matters are resolved quickly).
