@@ -19,10 +19,10 @@ Unsavoury Behaviour may include any of the following behaviours (Please note: Th
 * Spamming.
 * Trolling.
 * Disruptive Behaviour.
-* Ignoring rules or Instruction.
+* Ignoring Rules or Instruction.
 * Unfair Treatment or Instruction.
 * Disrespectful Behaviour (e.g. excessive swearing, sarcasm, gaslighting, passive-aggressive remarks).
-* Arguing (e.g. persistently ignoring or dismissing other participants' views, constantly pushing their agenda, using fallacious arguments such as mistaken beliefs as facts, or becoming accusatory towards those with opposing views).
+* Arguing (e.g. persistently ignoring or dismissing other participants' views, constantly pushing one’s agenda, using fallacious arguments such as mistaken beliefs as facts, or becoming accusatory towards those with opposing views).
 * Malicious False Accusations or Inflammatory Finger Pointing.
 
 If you are unsure of whether the behaviour is considered to be ‘unsavoury’, please see ‘Article 1, Section II - Negative Impact’.
@@ -47,7 +47,7 @@ A note on whistleblowing: it is not punishable to call out behaviour, even if do
 
 ### Section III - Notifiers
 
-From henceforth, any Knights who identify unsavoury behaviour or have been impacted by unsavoury behaviour will be referred to as ‘Notifier/s’.
+From henceforth, any Knights who identify unsavoury behaviour or have been impacted by unsavoury behaviour will be referred to as ‘Notifier/s’. There is no limit to the amount of Notifiers.
 
 ### Section IV - Accused
 
@@ -65,9 +65,9 @@ A Moderation Committee shall be formed, comprising a minimum of three (3) and ma
 
 ### Section II - Selection Criteria for Committee Members
 
-1. Committee Members must not have been a part of any mediation as either Accused or Notifier in the past twelve (12) months.
-2. Committee Members must commit to being fully impartial, and be able to recognise when they may be biassed. In the case of personal bias, they must be willing to hand over mediation duties to another member on the Committee.
-3. Committee Members must have been active within the April Knights during the last twelve (12) months, including the preceding campaign.
+1. Committee Members must not have been a part of any mediation as an Accused in the past twelve (12) months.
+2. Committee Members must commit to being fully impartial, and be able to recognise when they may be biased. In the case of personal bias, they must be willing to hand over mediation duties to another member on the Committee.
+3. Committee Members must have been active within the April Knights during the last twelve (12) months, including participation in at least one Reddit or April Knights event as a Knight.
 4. To ensure this Act upholds the intention of reducing Grandmaster and Upper Council member involvement in minor conflict, these Officers must not currently occupy a seat on the Upper Council. The exception to this rule is one (1) Advisor may be permitted to be a member of the Moderation Committee if more than one Advisor resides on the Upper Council.
 5. Committee Members must willingly accept the nomination.
 
@@ -78,6 +78,7 @@ Committee Members will be nominated by the Grandmaster and confirmed, by a simpl
 1. Once the role of Moderation Committee member is accepted, Committee members will be sworn in by a simple majority vote of both councils.
 2. Once sworn in, Moderation Committee members shall serve until the next committee is nominated and sworn in.
 3. If unfit to carry out their duties, Moderation Committee Members may be removed from their position via an absolute majority vote of both councils.
+4. If a replacement Moderation Committee Member is required, for any reason, the appointment process may be repeated for the replacement member.
 
 ### Section IV - Moderation Committee Responsibilities
 
@@ -95,6 +96,7 @@ Once chosen and sworn in, the Moderation Committee shall be the main body respon
 10. The Lead Mediator can decide that mediation is not the best course of action. In this case, the Lead and any supporting mediators are to report back to the Upper Council with any recommendations on consequences or next steps (see A4, SII: Unsuccessful Mediation).
 11. With consultation from the Upper Council, the Moderation Committee can decide whether it is purposeful to share the outcome of the mediation in a public way.
 12. The Moderation Committee may decide to remove observation (see A3, SII, b) or support person (see A3, SII, a) privileges if they negatively impact on proceedings.
+13. Moderation Committee Members must maintain the confidentiality of the mediation process as much as possible. If confidentiality must be breached, Moderation Committee Members must provide justification and notice to all mediation participants.
 
 Any decisions that need to be made outside of the above responsibilities should be made with consultation from impartial Moderation Committee members or impartial Upper Council Members.
 
@@ -110,7 +112,7 @@ Before mediation is conducted, if the Grandmaster or the Grand Inquisitor determ
 
 #### *b) Identifying the Impacted Parties*
 
-In the case that mediation is required, a Moderation Committee Member will announce that mediation is required, either:
+In the case that mediation is required, a Moderation Committee Member will announce that mediation is required, either by:
 
 1. Addressing the behaviour privately via DM if there is a singular Knight impacted by the behaviour.
 2. Addressing the behaviour ‘publicly’ if it has occurred in a ‘public’ or ‘Knight-only’ discord channel, including those channels limited to set Knight Roles (e.g. #Lower Council).
