@@ -42,7 +42,7 @@ In order to preserve the history of the Knights, one exception to the title rena
 
 An overview of changes made to the Document Standardization Act:
 
-* Article 2, Section 1, is changed to the following: "For the sake of preservation of April Knights history, the First Herald will appoint any officer ranked Captain or higher, other than the Grand Inquisitor, with the charge of maintaining April Knights documents. This Knight will be known as the Scribe. They may choose themselves if it stands without objection for 48 hours in the Upper Council. The Scribe position is not an Upper Council position."
+* Article 2, Section 1, is changed to the following: "For the sake of preservation of April Knights history, the First Herald will appoint any officer ranked Captain or higher, other than the Grand Inquisitor, with the charge of maintaining April Knights documents. This Knight will be known as the Scribe. The First Herald may choose themselves, and the Scribe duties outlined would fall on them during periods in which the Scribe position is unfilled. The Scribe position is not an Upper Council position."
 
 ### Section III - Enactment
 
