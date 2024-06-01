@@ -1,8 +1,8 @@
 [Bill number: 9-102]: #
-[Author: Link922]: #
-[Author: Goffstown]: #
-[Proposed Date: ]: #
-[Passed Date: ]: #
+[Author: First Officer Link922]: #
+[Author: First Steward Goffstown]: #
+[Proposed Date: 5/17/2024]: #
+[Passed Date: 5/31/2024]: #
 
 # First Herald Renaming Act
 
