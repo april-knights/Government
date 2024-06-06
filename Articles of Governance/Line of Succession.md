@@ -5,8 +5,6 @@
 [Passed Date: 1/3/2019]: #
 
 ## Line of Succession Act
-(Revised December 19th, 2018)
-
 On the rare occasion that our leader, the Grandmaster is inactive, missing, or removed, our Order should have a line of succession so we are never truly leaderless again like the events of the Interregnum like in the latter half of Grandmaster Wicro’s reign. Avoiding these events will ensure we are never leaderless and broken during any period of time, be it the off season or during campaign.
 
 ### Section I
@@ -19,15 +17,15 @@ Should the office of the Grandmaster be vacated by any reason, the First Ranger 
 
 ### Section III
 
-Should the First Ranger be unable to assume the responsibilities of the Grandmaster, the First Steward shall take the powers of the Grandmaster and hold them until the next election, or until a member of higher succession is able to assume the position.
+Should the First Ranger be unable to assume the responsibilities of the Grandmaster, the First Herald shall take the powers of the Grandmaster and hold them until the next election, or until a member of higher succession is able to assume the position.
 
 ### Section IV
 
-Should both the First Ranger and First Steward be unable to assume the responsibilities of the Grandmaster, the First Builder shall take the powers of the Grandmaster and hold them until the next election, or until a member of higher succession is able to assume the position.
+Should both the First Ranger and First Herald be unable to assume the responsibilities of the Grandmaster, the First Builder shall take the powers of the Grandmaster and hold them until the next election, or until a member of higher succession is able to assume the position.
 
 ### Section V
 
-Should the First Ranger, First Steward, and First Builder be unable to assume the responsibilities of the Grandmaster, the Commander with the most experience and the oldest battalion shall take the powers of the Grandmaster and hold them until the next election, or until a member of higher succession is able to assume the position.
+Should the First Ranger, First Herald, and First Builder be unable to assume the responsibilities of the Grandmaster, the Commander with the most experience and the oldest battalion shall take the powers of the Grandmaster and hold them until the next election, or until a member of higher succession is able to assume the position.
 
 ### Section VI
 

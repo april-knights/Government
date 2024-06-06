@@ -65,7 +65,7 @@ This restriction in no way shape or form places any limitation on any Arbiter’
 ### Section I
 
 ## Article 2, Section 1, Paragraph 1 shall be edited to read:
-"The Upper Council shall consist of seven additional members to the Grandmaster: the First Ranger, the First Steward, the First Builder, the Grand Inquisitor, the leader of the Arcaenum, and two advisors, all appointed by the Grandmaster."
+"The Upper Council shall consist of seven additional members to the Grandmaster: the First Ranger, the First Herald, the First Builder, the Grand Inquisitor, the leader of the Arcaenum, and two advisors, all appointed by the Grandmaster."
 
 ### Section II
 ## Article 3, Section 1, Paragraph 1 shall be edited to read:

@@ -27,7 +27,7 @@ Our Order was founded in the days of the Button as a force of balance and a beac
 ## Article 2 - The Upper Council
 
 ### Section 1 - Membership
-1. 	The Upper Council shall consist of the Grandmaster, the First Ranger, the First Steward, the First Builder, the Grand Inquisitor, the leader of the Arcanaeum, and up to two advisors, all appointed by the Grandmaster.
+1. 	The Upper Council shall consist of the Grandmaster, the First Ranger, the First Herald, the First Builder, the Grand Inquisitor, the leader of the Arcanaeum, and up to two advisors, all appointed by the Grandmaster.
 2.	The Grandmaster shall have the power to change their Upper Council upon being elected to office. If a member of the Upper Council leaves of their own choice, the Grandmaster shall have the power to appoint one new person to the Upper Council, moving seats if necessary. Further than this, if the Grandmaster wishes to make changes to the Upper Council, they may petition for the consent of the Lower Council via a simple majority vote no sooner than three months since the last Upper Council change.
 
 ### Section 2 - Powers
